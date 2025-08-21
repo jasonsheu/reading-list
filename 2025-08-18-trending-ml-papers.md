@@ -6,27 +6,23 @@ layout: post
 
 # Trending ML/AI Papers from the week of August 18, 2025 – August 24, 2025
 
-### 1. [DINOv3](https://huggingface.co/papers/2508.10104)
+### 1. [S^2-Guidance: Stochastic Self Guidance for Training-Free Enhancement of   Diffusion Models](https://huggingface.co/papers/2508.12880)
 
-### 2. [OmniSVG: A Unified Scalable Vector Graphics Generation Model](https://huggingface.co/papers/2504.06263)
+### 2. [Tinker: Diffusion's Gift to 3D--Multi-View Consistent Editing From   Sparse Inputs without Per-Scene Optimization](https://huggingface.co/papers/2508.14811)
 
-### 3. [LlamaFactory: Unified Efficient Fine-Tuning of 100+ Language Models](https://huggingface.co/papers/2403.13372)
+### 3. [Large Language Model Agent: A Survey on Methodology, Applications and   Challenges](https://huggingface.co/papers/2503.21460)
 
-### 4. [WebShaper: Agentically Data Synthesizing via Information-Seeking
-  Formalization](https://huggingface.co/papers/2507.15061)
+### 4. [DeepPHY: Benchmarking Agentic VLMs on Physical Reasoning](https://huggingface.co/papers/2508.05405)
 
-### 5. [Easy Dataset: A Unified and Extensible Framework for Synthesizing LLM
-  Fine-Tuning Data from Unstructured Documents](https://huggingface.co/papers/2507.04009)
+### 5. [OmniSVG: A Unified Scalable Vector Graphics Generation Model](https://huggingface.co/papers/2504.06263)
 
-### 6. [Agent Lightning: Train ANY AI Agents with Reinforcement Learning](https://huggingface.co/papers/2508.03680)
+### 6. [Matrix-Game: Interactive World Foundation Model](https://huggingface.co/papers/2506.18701)
 
-### 7. [MeshCoder: LLM-Powered Structured Mesh Code Generation from Point Clouds](https://huggingface.co/papers/2508.14879)
+### 7. [ComoRAG: A Cognitive-Inspired Memory-Organized RAG for Stateful Long   Narrative Reasoning](https://huggingface.co/papers/2508.10419)
 
-### 8. [Stand-In: A Lightweight and Plug-and-Play Identity Control for Video
-  Generation](https://huggingface.co/papers/2508.07901)
+### 8. [NextStep-1: Toward Autoregressive Image Generation with Continuous   Tokens at Scale](https://huggingface.co/papers/2508.10711)
 
-### 9. [Ovis2.5 Technical Report](https://huggingface.co/papers/2508.11737)
+### 9. [DINOv3](https://huggingface.co/papers/2508.10104)
 
-### 10. [Embodied-R1: Reinforced Embodied Reasoning for General Robotic
-  Manipulation](https://huggingface.co/papers/2508.13998)
+### 10. [Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent   Distillation and Agentic RL](https://huggingface.co/papers/2508.13167)
 
